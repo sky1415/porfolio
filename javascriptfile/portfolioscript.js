@@ -1,8 +1,8 @@
   document.addEventListener("DOMContentLoaded", function () {
-    const occupations = ["Software Developer", "Web Developer", "Java Developer"];
+    const occupations = ["Learner","Software Developer", "Web Developer", "Java Developer"];
     let currentOccupationIndex = 0;
     const cardOccupation = document.querySelector(".card-occupation");
-    const cardInfo = "Hey Beautiful folks,are you? Just kidding, Myself Subhash Chavan. I love to develop cool websites which gives user best experience.";
+    const cardInfo = "Smile,I'm Subhash Chavan,excited to collaborate with a dynamic team and make meaningful contributions to projects that drive technological advancements. Let's connect and explore how I can be an asset to your team's success.";
     const cardInfoElement = document.querySelector(".card-info");
     let infoIndex = 0;
     let typingInterval;
